@@ -3,6 +3,10 @@
 build/
 out/
 
+config/
+worlds/
+logs/
+
 chunkstories/
 chunkstories-api/
 chunkstories-core/
